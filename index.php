@@ -126,7 +126,7 @@
               <div class="d-flex h-100">
                 <div class="project-text w-100 my-auto text-center text-lg-right">
                   <h4 class="text-white">Hasta los pies</h4>
-                  <p class="mb-0 text-white-50">¿Te cuesta escoger tus zapatos? ¡Despreocupate! No será un problema el día de tu boda con nuestra ayduda.</p>
+                  <p class="mb-0 text-white-50">¿Te cuesta escoger tus zapatos? ¡Despreocupate! No será un problema el día de tu boda con nuestra ayuda.</p>
                   <hr class="d-none d-lg-block mb-0 mr-0">
                 </div>
               </div>
