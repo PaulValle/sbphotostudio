@@ -1,5 +1,5 @@
 <?php
-echo "Hola mundo";
+
 ?>
 <!DOCTYPE html>
 <html lang="en">
