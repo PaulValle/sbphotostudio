@@ -149,7 +149,7 @@
               <span class="caption">
                 <span class="caption-content">
                   <h2>Familia Romero</h2>
-                  <p class="mb-0">Conoce la historia de amor sin fornteras en la boda de Cecilia y Juan Carlos.</p>
+                  <p class="mb-0">Conoce la historia de amor sin fronteras en la boda de Cecilia y Juan Carlos.</p>
                 </span>
               </span>
               <img class="img-fluid" src="img/foto1.jpg" alt="">
@@ -201,7 +201,7 @@
           <div class="col-md-10 col-lg-8 mx-auto text-center">
 
             <i class="far fa-paper-plane fa-2x mb-2 text-white"></i>
-            <h2 class="text-white mb-5">¿Quieres sobre nuestros planes? ¡Suscríbete!</h2>
+            <h2 class="text-white mb-5">¿Quieres sobre nuestros planes? ¡SUSCRÍBETE!</h2>
 
             <form class="form-inline d-flex">
               <input type="email" class="form-control flex-fill mr-0 mr-sm-2 mb-3 mb-sm-0" id="inputEmail" placeholder="Ingresa tu dirección de correo...">
